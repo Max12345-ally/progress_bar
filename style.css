@@ -22,7 +22,7 @@ body {
   position: relative;
   margin-bottom: 25px;
   max-width: 100%;
-  width: 600px;
+  width: 700px;
 }
 
 .progress-container:before {
@@ -38,7 +38,7 @@ body {
 }
 
 .progress {
-  background-color: black;
+  background-color: rgb(38, 125, 179);
   position: absolute;
   top: 50%;
   left: 0;
